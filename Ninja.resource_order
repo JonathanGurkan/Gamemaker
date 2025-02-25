@@ -71,5 +71,6 @@
     {"name":"spr_tile7","order":21,"path":"sprites/spr_tile7/spr_tile7.yy",},
     {"name":"spr_tile8","order":22,"path":"sprites/spr_tile8/spr_tile8.yy",},
     {"name":"spr_tile9","order":23,"path":"sprites/spr_tile9/spr_tile9.yy",},
+    {"name":"Sprite27","order":17,"path":"sprites/Sprite27/Sprite27.yy",},
   ],
 }
