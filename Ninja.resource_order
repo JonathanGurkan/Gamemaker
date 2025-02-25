@@ -53,5 +53,9 @@
     {"name":"spr_player_right","order":1,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"spr_settings","order":10,"path":"sprites/spr_settings/spr_settings.yy",},
     {"name":"spr_startback","order":5,"path":"sprites/spr_startback/spr_startback.yy",},
+    {"name":"spr_tile1","order":15,"path":"sprites/spr_tile1/spr_tile1.yy",},
+    {"name":"spr_tile2","order":16,"path":"sprites/spr_tile2/spr_tile2.yy",},
+    {"name":"spr_tile3","order":17,"path":"sprites/spr_tile3/spr_tile3.yy",},
+    {"name":"spr_tile4","order":18,"path":"sprites/spr_tile4/spr_tile4.yy",},
   ],
 }
