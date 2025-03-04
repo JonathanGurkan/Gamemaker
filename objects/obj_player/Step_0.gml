@@ -42,3 +42,18 @@ if (mouse_check_button_pressed(mb_left)) {
         k.speed = 15;
     }
 }
+if (invincibility > 0) //timer in step event
+{
+    invincibility -= 1/room_speed // (1/room_speed) = real time seconds
+}
+
+if (place_meeting(x,y,o_enemy_1) && invincibility <= 0) //avoids getting hit while invincibility has value.
+{ 
+    p_hp -= 1;
+    invincibility = 0.5; //grants half a second of invincibility after getting hit
+}
+
+if (p_hp <= 0)
+{ 
+    instance_destroy(self);
+}
