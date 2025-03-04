@@ -111,6 +111,7 @@
     {"id":{"name":"spr_tile7","path":"sprites/spr_tile7/spr_tile7.yy",},},
     {"id":{"name":"spr_tile8","path":"sprites/spr_tile8/spr_tile8.yy",},},
     {"id":{"name":"spr_tile9","path":"sprites/spr_tile9/spr_tile9.yy",},},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -23,4 +23,3 @@ if (!place_meeting(x+move_x, y+2, obj_solid) && place_meeting(x+move_x, y+10, ob
     move_y = abs(move_x);
     move_x = 0;
 }
-(keyboard_check(vk_left) or keyboard_check(ord("A"))
