@@ -28,9 +28,12 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"spr_solid",
+    "path":"sprites/spr_solid/spr_solid.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_solid",
+    "path":"sprites/spr_solid/spr_solid.yy",
+  },
   "visible":false,
 }
