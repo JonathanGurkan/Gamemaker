@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_solid",
+  "%Name":"obj_tile7",
   "eventList":[],
   "managed":true,
-  "name":"obj_solid",
+  "name":"obj_tile7",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Ninja",
+    "path":"Ninja.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,11 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"spr_tile7",
+    "path":"sprites/spr_tile7/spr_tile7.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
