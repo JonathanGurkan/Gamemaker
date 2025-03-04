@@ -23,3 +23,22 @@ if (!place_meeting(x+move_x, y+2, obj_solid) && place_meeting(x+move_x, y+10, ob
     move_y = abs(move_x);
     move_x = 0;
 }
+
+// Start trekken als de linker muisknop wordt ingedrukt
+if (mouse_check_button(mb_left)) {
+    if (instance_exists(obj_kunai) && obj_kunai.stuck) {
+        obj_kunai.grappling = true;
+    }
+} else {
+    if (instance_exists(obj_kunai)) {
+        obj_kunai.grappling = false;
+    }
+}
+
+if (mouse_check_button_pressed(mb_left)) {
+    if (!instance_exists(obj_kunai)) { 
+        var k = instance_create_layer(x, y, layer, obj_kunai);
+        k.direction = point_direction(x, y, mouse_x, mouse_y);
+        k.speed = 15;
+    }
+}
