@@ -1,8 +1,5 @@
-/// @description Move towards the player
-//Timers
 invincibility_time--
 
-// Death
 sprite_index = spr_enemy_left
 mask_index = spr_enemy_left
 if health_ <= 0 {
@@ -10,7 +7,6 @@ if health_ <= 0 {
 }
 
 
-// Bounce off solids
  if (speed_y < 10) {
   speed_y ++
 }

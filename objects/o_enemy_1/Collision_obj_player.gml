@@ -1,4 +1,4 @@
 if(invincibility_time <=0){	
-	global.lives--
+	global.lives -= 1
 	invincibility_time = 60
 }
