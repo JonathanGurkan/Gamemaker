@@ -464,11 +464,17 @@
     {"name":"inst_3C1A2CDA","path":"rooms/r_level_1/r_level_1.yy",},
     {"name":"inst_9FB8AB5","path":"rooms/r_level_1/r_level_1.yy",},
     {"name":"inst_76B150B0","path":"rooms/r_level_1/r_level_1.yy",},
+    {"name":"inst_D5ED1D7","path":"rooms/r_level_1/r_level_1.yy",},
+    {"name":"inst_14CF5D4D","path":"rooms/r_level_1/r_level_1.yy",},
+    {"name":"inst_6ADDA8F3","path":"rooms/r_level_1/r_level_1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_7","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_76B150B0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_76B150B0","objectId":{"name":"obj_death","path":"objects/obj_death/obj_death.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":95.0,"scaleY":1.0,"x":32.0,"y":672.0,},
+        {"$GMRInstance":"v1","%Name":"inst_D5ED1D7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_D5ED1D7","objectId":{"name":"o_enemy_1","path":"objects/o_enemy_1/o_enemy_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1280.0,"y":192.0,},
+        {"$GMRInstance":"v1","%Name":"inst_14CF5D4D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_14CF5D4D","objectId":{"name":"o_enemy_1","path":"objects/o_enemy_1/o_enemy_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1920.0,"y":448.0,},
+        {"$GMRInstance":"v1","%Name":"inst_6ADDA8F3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6ADDA8F3","objectId":{"name":"o_enemy_1","path":"objects/o_enemy_1/o_enemy_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1312.0,"y":544.0,},
       ],"layers":[],"name":"Instances_7","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_6","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_469117FA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_469117FA","objectId":{"name":"o_coin_pickup","path":"objects/o_coin_pickup/o_coin_pickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":320.0,},
