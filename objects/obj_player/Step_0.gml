@@ -1,9 +1,15 @@
 var move_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
 var move_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
-var move_up = keyboard_check(ord("W")) || keyboard_check(vk_up);
+var move_up = keyboard_check(vk_up) || keyboard_check(ord("W"));
 var move_down = keyboard_check(ord("S")) || keyboard_check(vk_down);
-var jump = keyboard_check_pressed(vk_space);
+var jump = keyboard_check_pressed(vk_space) || keyboard_check_pressed(vk_up) || keyboard_check_pressed(ord("W"));
 var throw_key = keyboard_check_pressed(ord("E"));
+
+if (move_right) {
+    image_xscale = 1;
+} else if (move_left) {
+    image_xscale = -1;
+}
 
 if (mouse_check_button_pressed(mb_left) && !kunai_exists && !grappling) {
     kunai_exists = true;
@@ -145,29 +151,6 @@ if (!grappling) {
             swing_momentum *= -0.7;
             x = old_x;
             y = old_y;
-        }
-    }
-    
-    if (throw_key && !is_hanging && abs(swing_momentum) > 2) {
-        grappling = false;
-        kunai_exists = false;
-        is_climbing = false;
-        
-        var throw_speed = min(abs(swing_momentum) * 10, 15);
-        var throw_angle = swing_angle - 90 * sign(swing_momentum);
-        
-        hsp = lengthdir_x(throw_speed, throw_angle);
-        vsp = lengthdir_y(throw_speed, throw_angle);
-        
-        if (vsp > 0) {
-            vsp *= 0.7;
-            hsp *= 1.3;
-        }
-        
-        with (obj_kunai) {
-            if (owner == other.id) {
-                instance_destroy();
-            }
         }
     }
 }

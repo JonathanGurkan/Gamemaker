@@ -1,8 +1,8 @@
 hsp = 0;
 vsp = 0;
 movespeed = 4;
-jumpspeed = -7;
-grav = 0.35;
+jumpspeed = -9;
+grav = 0.45;
 max_fall_speed = 7;
 can_jump = true;
 grappling = false;
@@ -26,3 +26,4 @@ air_control_speed = 0.3;
 base_swing_speed = 8;
 min_rope_length = 32;
 max_rope_length = 300;
+image_xscale = 1;
