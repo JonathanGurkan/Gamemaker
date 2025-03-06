@@ -85,7 +85,6 @@
     {"id":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},},
     {"id":{"name":"r_level_2","path":"rooms/r_level_2/r_level_2.yy",},},
     {"id":{"name":"r_level_3","path":"rooms/r_level_3/r_level_3.yy",},},
-    {"id":{"name":"r_level_4","path":"rooms/r_level_4/r_level_4.yy",},},
     {"id":{"name":"r_levels","path":"rooms/r_levels/r_levels.yy",},},
     {"id":{"name":"r_startscherm","path":"rooms/r_startscherm/r_startscherm.yy",},},
     {"id":{"name":"coin_pickup","path":"sprites/coin_pickup/coin_pickup.yy",},},
@@ -144,7 +143,6 @@
     {"roomId":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},},
     {"roomId":{"name":"r_level_2","path":"rooms/r_level_2/r_level_2.yy",},},
     {"roomId":{"name":"r_level_3","path":"rooms/r_level_3/r_level_3.yy",},},
-    {"roomId":{"name":"r_level_4","path":"rooms/r_level_4/r_level_4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

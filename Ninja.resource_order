@@ -62,7 +62,6 @@
     {"name":"r_controls","order":3,"path":"rooms/r_controls/r_controls.yy",},
     {"name":"r_level_2","order":5,"path":"rooms/r_level_2/r_level_2.yy",},
     {"name":"r_level_3","order":6,"path":"rooms/r_level_3/r_level_3.yy",},
-    {"name":"r_level_4","order":7,"path":"rooms/r_level_4/r_level_4.yy",},
     {"name":"r_levels","order":2,"path":"rooms/r_levels/r_levels.yy",},
     {"name":"coin_pickup","order":18,"path":"sprites/coin_pickup/coin_pickup.yy",},
     {"name":"heart_pickup","order":19,"path":"sprites/heart_pickup/heart_pickup.yy",},
