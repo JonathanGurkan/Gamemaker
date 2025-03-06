@@ -119,6 +119,7 @@
     {"id":{"name":"spr_momoto","path":"sprites/spr_momoto/spr_momoto.yy",},},
     {"id":{"name":"spr_music","path":"sprites/spr_music/spr_music.yy",},},
     {"id":{"name":"spr_newgame","path":"sprites/spr_newgame/spr_newgame.yy",},},
+    {"id":{"name":"spr_options","path":"sprites/spr_options/spr_options.yy",},},
     {"id":{"name":"spr_pipebtmlft","path":"sprites/spr_pipebtmlft/spr_pipebtmlft.yy",},},
     {"id":{"name":"spr_pipedown","path":"sprites/spr_pipedown/spr_pipedown.yy",},},
     {"id":{"name":"spr_pipes","path":"sprites/spr_pipes/spr_pipes.yy",},},
