@@ -1,0 +1,1 @@
+audio_play_sound(sou_game, 0, true);
