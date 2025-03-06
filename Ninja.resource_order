@@ -83,6 +83,7 @@
     {"name":"spr_lvl4btn","order":10,"path":"sprites/spr_lvl4btn/spr_lvl4btn.yy",},
     {"name":"spr_lvl5btn","order":11,"path":"sprites/spr_lvl5btn/spr_lvl5btn.yy",},
     {"name":"spr_momoto","order":2,"path":"sprites/spr_momoto/spr_momoto.yy",},
+    {"name":"spr_options","order":14,"path":"sprites/spr_options/spr_options.yy",},
     {"name":"spr_pipebtmlft","order":36,"path":"sprites/spr_pipebtmlft/spr_pipebtmlft.yy",},
     {"name":"spr_pipedown","order":37,"path":"sprites/spr_pipedown/spr_pipedown.yy",},
     {"name":"spr_pipes","order":15,"path":"sprites/spr_pipes/spr_pipes.yy",},
