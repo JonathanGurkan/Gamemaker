@@ -1,8 +1,8 @@
 hsp = 0;
 vsp = 0;
 movespeed = 4;
-jumpspeed = -7;
-grav = 0.35;
+jumpspeed = 14;
+grav = 1;
 max_fall_speed = 7;
 can_jump = true;
 grappling = false;

@@ -2,7 +2,7 @@ var move_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
 var move_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
 var move_up = keyboard_check(ord("W")) || keyboard_check(vk_up);
 var move_down = keyboard_check(ord("S")) || keyboard_check(vk_down);
-var jump = keyboard_check_pressed(vk_space);
+var jump = keyboard_check_pressed(vk_space) || keyboard_check(ord("W")) || keyboard_check(vk_up);
 var throw_key = keyboard_check_pressed(ord("E"));
 
 if (mouse_check_button_pressed(mb_left) && !kunai_exists && !grappling) {
