@@ -629,13 +629,6 @@
     {"name":"inst_6B363D09","path":"rooms/r_level_3/r_level_3.yy",},
     {"name":"inst_5DE88878","path":"rooms/r_level_3/r_level_3.yy",},
     {"name":"inst_655F1511","path":"rooms/r_level_3/r_level_3.yy",},
-<<<<<<< HEAD
-    {"name":"inst_4B5C83B9","path":"rooms/r_level_3/r_level_3.yy",},
-=======
-    {"name":"inst_92FFFFD","path":"rooms/r_level_3/r_level_3.yy",},
-    {"name":"inst_3A24FB32","path":"rooms/r_level_3/r_level_3.yy",},
-    {"name":"inst_3A815DEA","path":"rooms/r_level_3/r_level_3.yy",},
->>>>>>> origin/gameover1
   ],
   "isDnd":false,
   "layers":[
