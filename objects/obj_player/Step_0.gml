@@ -2,7 +2,7 @@ var move_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
 var move_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
 var move_up = keyboard_check(vk_up) || keyboard_check(ord("W"));
 var move_down = keyboard_check(ord("S")) || keyboard_check(vk_down);
-var jump = keyboard_check_pressed(vk_space) || keyboard_check_pressed(vk_up) || keyboard_check_pressed(ord("W"));
+
 var throw_key = keyboard_check_pressed(ord("E"));
 
 if (move_right) {
