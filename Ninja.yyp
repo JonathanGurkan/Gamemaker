@@ -62,6 +62,7 @@
     {"id":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},},
     {"id":{"name":"obj_newgame","path":"objects/obj_newgame/obj_newgame.yy",},},
     {"id":{"name":"obj_options","path":"objects/obj_options/obj_options.yy",},},
+    {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"obj_pipebtmlft","path":"objects/obj_pipebtmlft/obj_pipebtmlft.yy",},},
     {"id":{"name":"obj_pipedown","path":"objects/obj_pipedown/obj_pipedown.yy",},},
     {"id":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},},

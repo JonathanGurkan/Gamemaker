@@ -41,6 +41,7 @@
     {"name":"obj_music","order":43,"path":"objects/obj_music/obj_music.yy",},
     {"name":"obj_newgame","order":42,"path":"objects/obj_newgame/obj_newgame.yy",},
     {"name":"obj_options","order":15,"path":"objects/obj_options/obj_options.yy",},
+    {"name":"obj_pause","order":16,"path":"objects/obj_pause/obj_pause.yy",},
     {"name":"obj_pipebtmlft","order":30,"path":"objects/obj_pipebtmlft/obj_pipebtmlft.yy",},
     {"name":"obj_pipedown","order":31,"path":"objects/obj_pipedown/obj_pipedown.yy",},
     {"name":"obj_play","order":4,"path":"objects/obj_play/obj_play.yy",},

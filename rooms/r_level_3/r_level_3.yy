@@ -630,6 +630,7 @@
     {"name":"inst_5DE88878","path":"rooms/r_level_3/r_level_3.yy",},
     {"name":"inst_6524D64B","path":"rooms/r_level_3/r_level_3.yy",},
     {"name":"inst_655F1511","path":"rooms/r_level_3/r_level_3.yy",},
+    {"name":"inst_4B5C83B9","path":"rooms/r_level_3/r_level_3.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -960,6 +961,7 @@
         {"$GMRInstance":"v1","%Name":"inst_5DE88878","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5DE88878","objectId":{"name":"o_coin_pickup","path":"objects/o_coin_pickup/o_coin_pickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2528.0,"y":544.0,},
         {"$GMRInstance":"v1","%Name":"inst_6524D64B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6524D64B","objectId":{"name":"o_enemy_1","path":"objects/o_enemy_1/o_enemy_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3264.0,"y":480.0,},
         {"$GMRInstance":"v1","%Name":"inst_655F1511","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_655F1511","objectId":{"name":"o_coin_pickup","path":"objects/o_coin_pickup/o_coin_pickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1600.0,"y":480.0,},
+        {"$GMRInstance":"v1","%Name":"inst_4B5C83B9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4B5C83B9","objectId":{"name":"o_coin_pickup","path":"objects/o_coin_pickup/o_coin_pickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3648.0,"y":352.0,},
       ],"layers":[],"name":"Instances_4","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_1389862A","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_1389862A","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.1,"scaleY":0.1,"spriteId":{"name":"spr_pipes","path":"sprites/spr_pipes/spr_pipes.yy",},"x":3168.0,"y":544.0,},

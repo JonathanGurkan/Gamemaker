@@ -20,3 +20,4 @@ if (!attached) {
         instance_destroy();
     }
 }
+if (global.paused) exit;

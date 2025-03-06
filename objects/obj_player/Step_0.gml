@@ -1,3 +1,4 @@
+if (global.paused) exit;
 var move_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
 var move_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
 var move_up = keyboard_check(ord("W")) || keyboard_check(vk_up);
