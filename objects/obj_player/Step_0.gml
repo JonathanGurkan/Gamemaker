@@ -12,7 +12,6 @@ if (mouse_check_button_pressed(mb_left) && !kunai_exists && !grappling) {
     kunai.speed = 15;
     kunai.owner = id;
 }
-
 // Sprite veranderen op basis van beweging
 if (hsp > 0) {
     sprite_index = spr_player_right;
@@ -167,6 +166,16 @@ if (!grappling) {
     y += vsp;
 }
 
-// Beperking binnen de kamer
-x = clamp(x, 0, room_width);
-y = clamp(y, 0, room_height);
+
+if ( global.lives <= 0) {
+    room_goto(r_gameover);
+}
+if (y > room_height + 50) { 
+    global.lives --;
+    
+    if (global.lives > 0) {
+room_restart()
+    } else {
+        room_goto(r_gameover);
+    }
+}
