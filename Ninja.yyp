@@ -111,6 +111,7 @@
     {"id":{"name":"spr_lvl4btn","path":"sprites/spr_lvl4btn/spr_lvl4btn.yy",},},
     {"id":{"name":"spr_lvl5btn","path":"sprites/spr_lvl5btn/spr_lvl5btn.yy",},},
     {"id":{"name":"spr_momoto","path":"sprites/spr_momoto/spr_momoto.yy",},},
+    {"id":{"name":"spr_newgame","path":"sprites/spr_newgame/spr_newgame.yy",},},
     {"id":{"name":"spr_pipebtmlft","path":"sprites/spr_pipebtmlft/spr_pipebtmlft.yy",},},
     {"id":{"name":"spr_pipedown","path":"sprites/spr_pipedown/spr_pipedown.yy",},},
     {"id":{"name":"spr_pipes","path":"sprites/spr_pipes/spr_pipes.yy",},},
