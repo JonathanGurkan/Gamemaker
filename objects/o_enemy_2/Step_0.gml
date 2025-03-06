@@ -1,8 +1,5 @@
-/// @description Move towards the player
-//Timers
 invincibility_time--
 
-// Death
 sprite_index = spr_enemy_left
 mask_index = spr_enemy_left
 if health_ <= 0 {
@@ -10,8 +7,7 @@ if health_ <= 0 {
 }
 
 
-// Bounce off solids
- if (speed_y < 10) {
+if (speed_y < 10) {
   speed_y ++
 }
 if (place_meeting(x+speed_x, y, obj_solid)) {
@@ -30,7 +26,6 @@ if (place_meeting(x, y+speed_y, obj_solid)) {
 y += speed_y;
 
 dir = -sign(x-obj_player.x)
-// Move force
 if (instance_exists(obj_player) && global.lives >= 0) {
 	speed_x = movesp * dir
 }
