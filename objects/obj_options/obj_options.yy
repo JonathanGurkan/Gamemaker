@@ -6,8 +6,8 @@
   "name":"obj_options",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ninja",
-    "path":"Ninja.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
